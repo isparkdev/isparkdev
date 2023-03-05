@@ -31,7 +31,6 @@ class Spark{
 
 
 # My Github Statistics
-   <img src="https://github-readme-stats.vercel.app/api?username=isparkdev&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
 <img src="https://github-profile-trophy.vercel.app/?username=isparkdev&theme=radical" />
 </p>
 
