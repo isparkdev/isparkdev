@@ -1,7 +1,7 @@
 ## ✨ Hi! I'm Spark ✨.
 ![Profile Count](https://komarev.com/ghpvc/?username=isparkdev&color=red)&nbsp;
-[![GitHub Ares](https://img.shields.io/github/followers/richardsistemler?label=follow&style=social)](https://github.com/isparkdev)&nbsp;
-<a href="https://discord.com/users/551038977386348586"><img alt="Discord" src="https://img.shields.io/badge/@'Ares-2f3236?style=flat&logo=discord&logoColor=blue" /></a> &nbsp;
+[![GitHub Spark](https://img.shields.io/github/followers/isparkdev?label=follow&style=social)](https://github.com/isparkdev)&nbsp;
+<a href="https://discord.com/users/551038977386348586"><img alt="Discord" src="https://img.shields.io/badge/@Spark-2f3236?style=flat&logo=discord&logoColor=blue" /></a> &nbsp;
 <a href="https://instagram.com/acmadımhesabidaha"><img src="https://img.shields.io/badge/@yakındaacacam-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 ```js
 class Spark{
